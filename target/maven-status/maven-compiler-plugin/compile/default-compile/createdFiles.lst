@@ -1,0 +1,6 @@
+com\websystique\springboot\controller\CustomerController.class
+com\websystique\springboot\SpringBootCRUDApp.class
+com\websystique\springboot\model\Customer.class
+com\websystique\springboot\model\Response.class
+com\websystique\springboot\repositories\CustomerRepository.class
+com\websystique\springboot\controller\WebController.class
